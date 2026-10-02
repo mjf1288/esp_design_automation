@@ -1,0 +1,114 @@
+[
+  {
+    "id": "alkhorayef-spectrum-vgs-400",
+    "type": "static_separator",
+    "series": 400,
+    "od_in": 4.0,
+    "hp_consumed": 2,
+    "max_free_gas_fraction_handled": 0.8,
+    "separation_efficiency_pct_range": [
+      85,
+      85
+    ],
+    "source_urls": [
+      "https://www.alkhorayefpetroleum.com/Alkhorayef/media/AlkhorayefMedia/PDF/SPECTRUM-Vortex-Gas-Separator.pdf"
+    ],
+    "notes": "Published SPECTRUM vortex gas separator; source labels 2 @ 60 Hz under HP consumed (unit interpreted as hp). Tandem separation efficiency is published as 85%."
+  },
+  {
+    "id": "alkhorayef-spectrum-vgs-513",
+    "type": "static_separator",
+    "series": 513,
+    "od_in": 5.38,
+    "hp_consumed": 7,
+    "max_free_gas_fraction_handled": 0.8,
+    "separation_efficiency_pct_range": [
+      85,
+      85
+    ],
+    "source_urls": [
+      "https://www.alkhorayefpetroleum.com/Alkhorayef/media/AlkhorayefMedia/PDF/SPECTRUM-Vortex-Gas-Separator.pdf"
+    ],
+    "notes": "Published SPECTRUM vortex gas separator; catalog labels this 513 series but gives 5.38-in OD. Source labels 7 @ 60 Hz under HP consumed (unit interpreted as hp)."
+  },
+  {
+    "id": "slb-reda-ars-338",
+    "type": "rotary_separator",
+    "series": 338,
+    "od_in": 3.38,
+    "hp_consumed": null,
+    "max_free_gas_fraction_handled": null,
+    "separation_efficiency_pct_range": null,
+    "source_urls": [
+      "https://media.theofmp.com/media/sals/documents/schlumbergerredaesptechnologycatalog_v1.pdf"
+    ],
+    "notes": "ARS rotary gas separator. Catalog publishes series and length but not HP consumed, free-gas fraction or separation efficiency."
+  },
+  {
+    "id": "slb-reda-drs-es-400",
+    "type": "rotary_separator",
+    "series": 400,
+    "od_in": 4.0,
+    "hp_consumed": null,
+    "max_free_gas_fraction_handled": null,
+    "separation_efficiency_pct_range": null,
+    "source_urls": [
+      "https://media.theofmp.com/media/sals/documents/schlumbergerredaesptechnologycatalog_v1.pdf"
+    ],
+    "notes": "DRS-ES rotary gas separator; documented 2.6-ft length. Requested performance fields are not published."
+  },
+  {
+    "id": "slb-reda-agh-d5-21",
+    "type": "advanced_gas_handler",
+    "series": 400,
+    "od_in": 4.0,
+    "hp_consumed": null,
+    "max_free_gas_fraction_handled": 0.45,
+    "separation_efficiency_pct_range": null,
+    "source_urls": [
+      "https://media.theofmp.com/media/sals/documents/schlumbergerredaesptechnologycatalog_v1.pdf",
+      "https://www.slb.com/products-and-services/innovating-in-oil-and-gas/completions/artificial-lift/electrical-submersible-pumps/reda-esp-pump-system/esp-gas-devices"
+    ],
+    "notes": "D5-21 capacity 500-2,100 bpd from catalog; the public SLB product page states AGH systems can handle up to 45% GVF at low intake pressure. This is product-family capability, not a device-specific test point."
+  },
+  {
+    "id": "slb-reda-mgh-d8-42",
+    "type": "gas_handler",
+    "series": 400,
+    "od_in": 4.0,
+    "hp_consumed": null,
+    "max_free_gas_fraction_handled": 0.75,
+    "separation_efficiency_pct_range": null,
+    "source_urls": [
+      "https://media.theofmp.com/media/sals/documents/schlumbergerredaesptechnologycatalog_v1.pdf",
+      "https://www.slb.com/products-and-services/innovating-in-oil-and-gas/completions/artificial-lift/electrical-submersible-pumps/reda-esp-pump-system/esp-gas-devices"
+    ],
+    "notes": "D8-42 capacity 800-4,200 bpd from catalog; public MGH product-family capability up to 75% GVF. No HP consumed figure is published."
+  },
+  {
+    "id": "levare-400-vapro-2000",
+    "type": "gas_handler",
+    "series": 400,
+    "od_in": null,
+    "hp_consumed": null,
+    "max_free_gas_fraction_handled": 0.7,
+    "separation_efficiency_pct_range": null,
+    "source_urls": [
+      "https://levare.com/storage/app/uploads/public/64d/a31/438/64da31438ea37707606711.pdf"
+    ],
+    "notes": "Published capacity 717-2,038 bpd and max 70% free gas at pump intake; OD, HP consumption, and efficiency unavailable."
+  },
+  {
+    "id": "levare-538-vapro-12500",
+    "type": "gas_handler",
+    "series": 538,
+    "od_in": null,
+    "hp_consumed": null,
+    "max_free_gas_fraction_handled": 0.65,
+    "separation_efficiency_pct_range": null,
+    "source_urls": [
+      "https://levare.com/storage/app/uploads/public/64d/a31/438/64da31438ea37707606711.pdf"
+    ],
+    "notes": "Published capacity 4,000-13,000 bpd; source publishes 65% max free gas for 538 Vapro product family. OD, HP consumption, and efficiency unavailable."
+  }
+]

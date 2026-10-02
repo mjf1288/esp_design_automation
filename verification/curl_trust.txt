@@ -1,0 +1,2 @@
+{"tenant_id":"demo","segments":[{"branch":"B_new","complication_segment":"standard","confidence_band":"low","trust_level":"L1","agreement_count":1,"accepted_count":1,"agreement_rate":1.0}],"policy":"L2 requires >=20 reviews and >=80% agreement; L3 requires >=50 reviews and >=95% agreement."}
+HTTP 200

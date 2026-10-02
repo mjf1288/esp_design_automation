@@ -1,0 +1,33 @@
+/* Self-hosted typefaces. Do not replace these with a Google Fonts <link>.
+ *
+ * Framework §9.7 requires that in an on-premise deployment the browser talks
+ * only to a server inside the company perimeter. A Google Fonts stylesheet
+ * breaks that in a way that is easy to miss and embarrassing to be caught on:
+ * /api/deployment would keep reporting zero external egress in deterministic
+ * mode while every page load resolved fonts.googleapis.com and handed a third
+ * party the client IP, user agent, and a timestamp for every engineer who
+ * opened a design.
+ *
+ * These @font-face rules resolve to woff2 files that Vite emits into the
+ * bundle, so they are served from the same origin as the application. The
+ * latin subset only -- the console is US field units and English, and the
+ * cyrillic/greek/vietnamese subsets would add weight nothing renders.
+ *
+ * Weights are limited to those style.css actually uses: Inter 400/500/600/700
+ * and JetBrains Mono 400/500/600. Adding a weight here without using it costs
+ * a request; using a weight that is not here silently synthesizes a faux-bold,
+ * which on a monospace numeric column is a legibility regression.
+ *
+ * backend/tests/test_no_external_egress.py asserts the built bundle contains
+ * no external host references, so a regression here fails the suite rather
+ * than shipping quietly.
+ */
+
+@import '@fontsource/inter/latin-400.css';
+@import '@fontsource/inter/latin-500.css';
+@import '@fontsource/inter/latin-600.css';
+@import '@fontsource/inter/latin-700.css';
+
+@import '@fontsource/jetbrains-mono/latin-400.css';
+@import '@fontsource/jetbrains-mono/latin-500.css';
+@import '@fontsource/jetbrains-mono/latin-600.css';

@@ -1,0 +1,11 @@
+# Complete direct dependencies, including the offline test suite.
+# Tested with Python 3.14. No preinstalled sandbox packages are required.
+numpy==2.5.2
+scipy==1.18.1
+pydantic==2.12.5
+SQLAlchemy==2.0.52
+fastapi==0.141.1
+uvicorn==0.52.4
+httpx==0.28.1
+openai==3.3.1
+pytest==9.1.1

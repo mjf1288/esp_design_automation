@@ -1,0 +1,54 @@
+[
+  {
+    "id": "slb-reda-protector-325-bsb",
+    "series": 325,
+    "od_in": 3.25,
+    "thrust_bearing_capacity_lb": null,
+    "max_shaft_hp": null,
+    "length_ft": 5.7,
+    "source_urls": [
+      "https://media.theofmp.com/media/sals/documents/schlumbergerredaesptechnologycatalog_v1.pdf"
+    ],
+    "data_quality": "parametric_estimate",
+    "notes": "Length and series/configuration are digitized from SLB catalog. The catalog does not publish OD, numerical thrust-bearing capacity, or max shaft HP; OD is a nominal-series proxy only. BSB nomenclature is as published."
+  },
+  {
+    "id": "slb-reda-protector-400-lsl",
+    "series": 400,
+    "od_in": 4.0,
+    "thrust_bearing_capacity_lb": null,
+    "max_shaft_hp": null,
+    "length_ft": 5.8,
+    "source_urls": [
+      "https://media.theofmp.com/media/sals/documents/schlumbergerredaesptechnologycatalog_v1.pdf"
+    ],
+    "data_quality": "parametric_estimate",
+    "notes": "Length and series/configuration are digitized from SLB catalog. The catalog does not publish OD, numerical thrust-bearing capacity, or max shaft HP; OD is a nominal-series proxy only. LSL nomenclature is as published."
+  },
+  {
+    "id": "slb-reda-protector-540-bsb",
+    "series": 540,
+    "od_in": 5.13,
+    "thrust_bearing_capacity_lb": null,
+    "max_shaft_hp": null,
+    "length_ft": 6.5,
+    "source_urls": [
+      "https://media.theofmp.com/media/sals/documents/schlumbergerredaesptechnologycatalog_v1.pdf"
+    ],
+    "data_quality": "parametric_estimate",
+    "notes": "Length and series/configuration are digitized from SLB catalog. The catalog does not publish OD, numerical thrust-bearing capacity, or max shaft HP; OD is a nominal-series proxy only. BSB nomenclature is as published."
+  },
+  {
+    "id": "slb-reda-protector-738-66l-hl",
+    "series": 738,
+    "od_in": 7.38,
+    "thrust_bearing_capacity_lb": null,
+    "max_shaft_hp": null,
+    "length_ft": 6.4,
+    "source_urls": [
+      "https://media.theofmp.com/media/sals/documents/schlumbergerredaesptechnologycatalog_v1.pdf"
+    ],
+    "data_quality": "parametric_estimate",
+    "notes": "Length and series/configuration are digitized from SLB catalog. The catalog does not publish OD, numerical thrust-bearing capacity, or max shaft HP; OD is a nominal-series proxy only. 66L-HL nomenclature is as published."
+  }
+]

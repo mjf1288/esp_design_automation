@@ -1,0 +1,44 @@
+{
+  "root": {
+    "http": 200,
+    "tenant_id": "live-verification",
+    "counts": {
+      "pumps": 13,
+      "motors": 14,
+      "cables": 8,
+      "gas_handling": 8,
+      "seals": 4,
+      "casing": 12
+    }
+  },
+  "pumps": {
+    "http": 200,
+    "tenant_id": "live-verification",
+    "count": 13
+  },
+  "motors": {
+    "http": 200,
+    "tenant_id": "live-verification",
+    "count": 14
+  },
+  "cables": {
+    "http": 200,
+    "tenant_id": "live-verification",
+    "count": 8
+  },
+  "gas-handling": {
+    "http": 200,
+    "tenant_id": "live-verification",
+    "count": 8
+  },
+  "seals": {
+    "http": 200,
+    "tenant_id": "live-verification",
+    "count": 4
+  },
+  "casing": {
+    "http": 200,
+    "tenant_id": "live-verification",
+    "count": 12
+  }
+}

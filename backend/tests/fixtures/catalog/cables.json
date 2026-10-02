@@ -1,0 +1,53 @@
+[
+  {
+    "id": "fixture-flat-6",
+    "awg": 6,
+    "conductor_area_cmil": 26240,
+    "ampacity_a": 95.0,
+    "resistance_ohm_per_1000ft_at_77f": 0.4028,
+    "temp_coeff_per_f": 0.00214,
+    "od_flat_in": 0.5,
+    "od_round_in": null,
+    "max_temp_f": 400.0,
+    "armor": "steel",
+    "source_urls": [
+      "https://example.test/cable"
+    ],
+    "data_quality": "published_table",
+    "notes": "Synthetic fixture, but resistance uses REAL ASTM/NEC stranded-copper values at 77 F. Round placeholder values (1.0/0.5/0.25) were replaced because cable selection now applies the physical ESP screen of <30 V drop per 1000 ft, which a nonphysical resistance fails regardless of the code being correct."
+  },
+  {
+    "id": "fixture-flat-4",
+    "awg": 4,
+    "conductor_area_cmil": 41740,
+    "ampacity_a": 125.0,
+    "resistance_ohm_per_1000ft_at_77f": 0.2535,
+    "temp_coeff_per_f": 0.00214,
+    "od_flat_in": 0.6,
+    "od_round_in": null,
+    "max_temp_f": 400.0,
+    "armor": "steel",
+    "source_urls": [
+      "https://example.test/cable"
+    ],
+    "data_quality": "published_table",
+    "notes": "Synthetic fixture, but resistance uses REAL ASTM/NEC stranded-copper values at 77 F. Round placeholder values (1.0/0.5/0.25) were replaced because cable selection now applies the physical ESP screen of <30 V drop per 1000 ft, which a nonphysical resistance fails regardless of the code being correct."
+  },
+  {
+    "id": "fixture-flat-2",
+    "awg": 2,
+    "conductor_area_cmil": 66360,
+    "ampacity_a": 170.0,
+    "resistance_ohm_per_1000ft_at_77f": 0.1593,
+    "temp_coeff_per_f": 0.00214,
+    "od_flat_in": 0.7,
+    "od_round_in": null,
+    "max_temp_f": 400.0,
+    "armor": "steel",
+    "source_urls": [
+      "https://example.test/cable"
+    ],
+    "data_quality": "published_table",
+    "notes": "Synthetic fixture, but resistance uses REAL ASTM/NEC stranded-copper values at 77 F. Round placeholder values (1.0/0.5/0.25) were replaced because cable selection now applies the physical ESP screen of <30 V drop per 1000 ft, which a nonphysical resistance fails regardless of the code being correct."
+  }
+]

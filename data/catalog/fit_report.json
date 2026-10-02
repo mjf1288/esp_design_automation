@@ -1,0 +1,123 @@
+{
+  "fit_degree": 5,
+  "records": [
+    {
+      "id": "slb-reda-an550",
+      "degree": 5,
+      "head_max_relative_error": 1.6216266316320279e-15,
+      "eff_max_relative_error": 3.069033931237475e-15,
+      "bhp_max_relative_error": 0.0001940828983951498,
+      "max_relative_error": 0.0001940828983951498,
+      "head_monotonic_decreasing_on_recommended_range": true
+    },
+    {
+      "id": "slb-reda-d460n",
+      "degree": 5,
+      "head_max_relative_error": 2.277354020746e-15,
+      "eff_max_relative_error": 1.9551097288996467e-15,
+      "bhp_max_relative_error": 0.0001811971092518609,
+      "max_relative_error": 0.0001811971092518609,
+      "head_monotonic_decreasing_on_recommended_range": true
+    },
+    {
+      "id": "slb-reda-d1050n",
+      "degree": 5,
+      "head_max_relative_error": 1.3500138827236293e-06,
+      "eff_max_relative_error": 2.063360600907602e-07,
+      "bhp_max_relative_error": 0.00018911321413961346,
+      "max_relative_error": 0.00018911321413961346,
+      "head_monotonic_decreasing_on_recommended_range": true
+    },
+    {
+      "id": "slb-reda-rc2500",
+      "degree": 5,
+      "head_max_relative_error": 1.4713571033422605e-06,
+      "eff_max_relative_error": 4.932498055148764e-08,
+      "bhp_max_relative_error": 0.00019016497454521923,
+      "max_relative_error": 0.00019016497454521923,
+      "head_monotonic_decreasing_on_recommended_range": true
+    },
+    {
+      "id": "slb-reda-gn3200",
+      "degree": 5,
+      "head_max_relative_error": 5.308896710700091e-16,
+      "eff_max_relative_error": 1.0884539457109379e-15,
+      "bhp_max_relative_error": 0.00018873246664997728,
+      "max_relative_error": 0.00018873246664997728,
+      "head_monotonic_decreasing_on_recommended_range": true
+    },
+    {
+      "id": "slb-reda-sn3600",
+      "degree": 5,
+      "head_max_relative_error": 1.4864910789960254e-15,
+      "eff_max_relative_error": 1.5783603074935586e-15,
+      "bhp_max_relative_error": 0.00019108815351338276,
+      "max_relative_error": 0.00019108815351338276,
+      "head_monotonic_decreasing_on_recommended_range": true
+    },
+    {
+      "id": "slb-reda-s6000n",
+      "degree": 5,
+      "head_max_relative_error": 2.5549065420244188e-15,
+      "eff_max_relative_error": 2.8985320461687264e-15,
+      "bhp_max_relative_error": 0.0001917808722565141,
+      "max_relative_error": 0.0001917808722565141,
+      "head_monotonic_decreasing_on_recommended_range": true
+    },
+    {
+      "id": "slb-reda-s8000n",
+      "degree": 5,
+      "head_max_relative_error": 1.981988105328034e-15,
+      "eff_max_relative_error": 1.5134961852677957e-15,
+      "bhp_max_relative_error": 0.00019050682918175866,
+      "max_relative_error": 0.00019050682918175866,
+      "head_monotonic_decreasing_on_recommended_range": true
+    },
+    {
+      "id": "slb-reda-hn13500",
+      "degree": 5,
+      "head_max_relative_error": 1.9112028158520327e-15,
+      "eff_max_relative_error": 1.8248309861412012e-15,
+      "bhp_max_relative_error": 0.0001900267027847064,
+      "max_relative_error": 0.0001900267027847064,
+      "head_monotonic_decreasing_on_recommended_range": true
+    },
+    {
+      "id": "slb-reda-h15500n",
+      "degree": 5,
+      "head_max_relative_error": 2.7252336448260467e-15,
+      "eff_max_relative_error": 8.294686300641823e-16,
+      "bhp_max_relative_error": 0.00018974784189898665,
+      "max_relative_error": 0.00018974784189898665,
+      "head_monotonic_decreasing_on_recommended_range": true
+    },
+    {
+      "id": "slb-reda-j7000n",
+      "degree": 5,
+      "head_max_relative_error": 1.2741352105680218e-15,
+      "eff_max_relative_error": 2.522493642112993e-15,
+      "bhp_max_relative_error": 0.0001904963622612161,
+      "max_relative_error": 0.0001904963622612161,
+      "head_monotonic_decreasing_on_recommended_range": true
+    },
+    {
+      "id": "slb-reda-j8500n",
+      "degree": 5,
+      "head_max_relative_error": 4.890212857692909e-07,
+      "eff_max_relative_error": 5.264328884335273e-08,
+      "bhp_max_relative_error": 0.00019030456387993165,
+      "max_relative_error": 0.00019030456387993165,
+      "head_monotonic_decreasing_on_recommended_range": true
+    },
+    {
+      "id": "slb-reda-j12000n",
+      "degree": 5,
+      "head_max_relative_error": 1.0810844210880187e-15,
+      "eff_max_relative_error": 1.8004999063259852e-15,
+      "bhp_max_relative_error": 0.00019047458486036868,
+      "max_relative_error": 0.00019047458486036868,
+      "head_monotonic_decreasing_on_recommended_range": true
+    }
+  ],
+  "failures": []
+}

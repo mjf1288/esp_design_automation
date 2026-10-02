@@ -1,0 +1,1 @@
+[{"id":"fixture-handler","type":"gas_handler","series":400,"od_in":4.0,"hp_consumed":2.0,"max_free_gas_fraction_handled":0.4,"separation_efficiency_pct_range":[0.0,0.0],"source_urls":["https://example.test/gas"],"data_quality":"published_table"}]

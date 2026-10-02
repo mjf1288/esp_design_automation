@@ -1,0 +1,2 @@
+{"id":"5f02ee82-1fa3-41ff-988a-c750896a660f","tenant_id":"live-verification","status":"raw_input_saved","next_action":"POST /api/cases/5f02ee82-1fa3-41ff-988a-c750896a660f/intake"}
+HTTP 201

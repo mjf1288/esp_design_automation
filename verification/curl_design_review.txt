@@ -1,0 +1,2 @@
+{"id":"7495e4d6-bde5-4dd9-af18-af2341c528cf","design_id":"31b66eac-00b1-47eb-a902-31a520f34122","action":"accept","agreed":true,"created_at":"2026-08-24T02:07:53.823844+00:00"}
+HTTP 200
